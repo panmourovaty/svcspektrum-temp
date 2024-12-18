@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://svcspektrum.cz/sitemap.xml
